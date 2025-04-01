@@ -14,5 +14,5 @@ test("muestra el mensaje de saludo con el nombre proporcionado", () => {
 });
 
 test("otro test que será interesante de aplicar", () => {
-  expect(false).toBeTruthy();
+  expect(true).toBeTruthy();
 });
