@@ -26,12 +26,6 @@ function App() {
         <p>
           Edita <code>src/App.jsx</code> y guarda para probar HMR
         </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
-          molestias neque soluta nihil, quisquam illum eum consectetur. Omnis
-          eveniet sequi ut. Delectus numquam eveniet ab consectetur facere
-          assumenda mollitia maiores.
-        </p>
       </div>
       <p className="read-the-docs">
         Click en los logos de Vite y React para aprender más
